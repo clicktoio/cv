@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "category": "web",
+        "imageSrc": "src/img/portfolio/work-img-1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "design",
+        "imageSrc": "src/img/portfolio/work-img-2.jpg"
+    },
+    {
+        "id": 3,
+        "category": "web",
+        "imageSrc": "src/img/portfolio/work-img-3.jpg"
+    },
+    {
+        "id": 4,
+        "category": "design",
+        "imageSrc": "src/img/portfolio/work-img-4.jpg"
+    },
+    {
+        "id": 5,
+        "category": "web",
+        "imageSrc": "src/img/portfolio/work-img-5.jpg"
+    },
+    {
+        "id": 6,
+        "category": "web",
+        "imageSrc": "src/img/portfolio/work-img-6.jpg"
+    },
+    {
+        "id": 7,
+        "category": "web",
+        "imageSrc": "src/img/portfolio/work-img-7.jpg"
+    },
+    {
+        "id": 8,
+        "category": "web",
+        "imageSrc": "src/img/portfolio/work-img-8.jpg"
+    }
+
+    
+  ]
