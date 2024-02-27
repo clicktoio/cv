@@ -1,43 +1,59 @@
 [
     {
         "id": 1,
-        "category": "web",
-        "imageSrc": "src/img/portfolio/work-img-1.jpg"
+        "category": ["web"],
+        "imageSrc": "src/img/portfolio/work-img-1.jpg",
+        "websiteLink": "https://nscomp.kz/",
+        "designLink": "#"
     },
     {
         "id": 2,
-        "category": "design",
-        "imageSrc": "src/img/portfolio/work-img-2.jpg"
+        "category": ["design"],
+        "imageSrc": "src/img/portfolio/work-img-2.jpg",
+        "websiteLink": "#",
+        "designLink": "https://www.behance.net/gallery/191978561/Landing-page-design"
     },
     {
         "id": 3,
-        "category": "web",
-        "imageSrc": "src/img/portfolio/work-img-3.jpg"
+        "category": ["web", "design"],
+        "imageSrc": "src/img/portfolio/work-img-3.jpg",
+        "websiteLink": "https://iscomp.kz/",
+        "designLink": "#"
     },
     {
         "id": 4,
-        "category": "design",
-        "imageSrc": "src/img/portfolio/work-img-4.jpg"
+        "category": ["design"],
+        "imageSrc": "src/img/portfolio/work-img-4.jpg",
+        "websiteLink": "#",
+        "designLink": "#"
     },
     {
         "id": 5,
-        "category": "web",
-        "imageSrc": "src/img/portfolio/work-img-5.jpg"
+        "category": ["web", "design"],
+        "imageSrc": "src/img/portfolio/work-img-5.jpg",
+        "websiteLink": "https://amangeldiaidos660.github.io/test2/",
+        "designLink": "https://www.behance.net/gallery/191980083/Control-panel-design"
     },
     {
         "id": 6,
-        "category": "web",
-        "imageSrc": "src/img/portfolio/work-img-6.jpg"
+        "category": ["web"],
+        "imageSrc": "src/img/portfolio/work-img-6.jpg",
+        "websiteLink": "https://www.bigsharkauto.kz/",
+        "designLink": "#"
     },
     {
         "id": 7,
-        "category": "web",
-        "imageSrc": "src/img/portfolio/work-img-7.jpg"
+        "category": ["web", "design"],
+        "imageSrc": "src/img/portfolio/work-img-7.jpg",
+        "websiteLink": "https://iifn.kz/",
+        "designLink": "https://www.behance.net/gallery/191979359/Design-for-a-university-faculty-website"
     },
     {
         "id": 8,
-        "category": "web",
-        "imageSrc": "src/img/portfolio/work-img-8.jpg"
+        "category": ["web", "design"],
+        "imageSrc": "src/img/portfolio/work-img-8.jpg",
+        "websiteLink": "https://ietp.org.kz/",
+        "designLink": "https://www.behance.net/gallery/191979793/Design-for-a-university-faculty-website"
     }
 
     
