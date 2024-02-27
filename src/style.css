@@ -655,6 +655,7 @@ section .container {
 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  z-index: 999;
 }
 
 .portfolio #portfolio-flters {
@@ -683,7 +684,7 @@ section .container {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: var(--color);;
+  background: var(--color);
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -749,3 +750,39 @@ svg{
   animation: move-forever 2s -2s
   linear infinite;
 }
+
+
+.page-404 {
+  display: block;
+  background-color: var(--header-bg); 
+  text-align: center;   
+}
+
+.page-404-container {
+  display: table;
+  width: 100%; 
+  min-height: 100vh;
+  margin: auto; 
+}
+
+.page-404-cell {
+  display: table-cell;
+  vertical-align: middle; 
+  text-align: center; 
+}
+
+.page-404-center span {
+  font-size: 150px;
+  font-weight: 900;
+  color: var(--color);
+  display: inline-block;
+  position: relative; 
+  padding: 25px 0;
+  border-top: 1px solid var(--color-hover);
+  border-bottom: 1px solid var(--color-hover);
+  font-family: var(--secondary-font);
+  margin-bottom: 20px; 
+}
+
+
+
